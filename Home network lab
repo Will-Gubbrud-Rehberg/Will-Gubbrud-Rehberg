@@ -1,0 +1,31 @@
+# Home Network
+
+**Date:** October, 2026  
+**Security Domain:** Network Infrastructure
+**Tools & Hardware Used:** Visio 
+
+---
+
+## 1. Scenario & Objective
+Makle a logical network diagram for devices in your house
+
+## 2. Architecture & Design
+
+Home network diagram unable to be added.
+*Network diagram made using Visio*
+
+## 3. Methodology & Execution
+
+1. **Initial Assessment:** Found devices around the house
+2. **Configuration / Execution:** Investigated to find the IP type
+3. **Validation:** Looked which network it was connected to (if any)
+
+## 4. Challenges & Troubleshooting
+Had to find all the devices in my house, and learn more about them. Found some I didn't knoiw we had.
+
+## 5. Conclusion & Lessons Learned
+I had a lot more devices on our network than I origional;ly thought
+
+**Final Outcome:** Diagram was made
+* **Lessons Learned:** I should know more about the devices we have around our house
+* **Security Recommendations:** Firewall probably
